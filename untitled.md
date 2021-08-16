@@ -2,7 +2,7 @@
 description: outra pagina aaaahhhh bla bla
 ---
 
-# Initial page
+# Untitled
 
 ## Getting Super Powers
 
@@ -32,13 +32,11 @@ Aqui uma modificação feita no GitHub
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
