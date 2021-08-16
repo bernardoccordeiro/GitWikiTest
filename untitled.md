@@ -6,7 +6,7 @@ description: outra pagina aaaahhhh bla bla
 
 ## Getting Super Powers
 
-Aqui uma modificação feita no GitHub
+Aqui uma modificação feita no GitHub.. outro commit só pra ver rsrs
 
 {% api-method method="get" host="" path="" %}
 {% api-method-summary %}
